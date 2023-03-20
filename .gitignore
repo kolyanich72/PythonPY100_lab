@@ -1,1 +1,8 @@
-/Тема 1/Работа с заданиями EduTools/
+venv
+*.yaml
+__init__.py
+*.md
+*.txt
+.idea
+*.png
+*.xml
